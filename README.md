@@ -56,5 +56,5 @@ You will find starter code for the project in the [.yaml](https://video.udacity-
 Last thing: Remember to delete your CloudFormation stack when you're done to avoid recurring charges!
 
 ## Diagram of the Infrastructure
-![Udagram-infrastructure-diagram](/Udagram-infrastructure-diagram.jpe)
+![Udagram-infrastructure-diagram](Udagram-infrastructure-diagram.jpeg)
 
