@@ -59,7 +59,7 @@ Last thing: Remember to delete your CloudFormation stack when you're done to avo
 ![Udagram-infrastructure-diagram](Udagram-infrastructure-diagram.jpeg)
 
 ## website running on servers
-![website running on servers]https://github.com/AhmedZedan/Deploy-a-high-availability-web-app-using-CloudFormation/tree/master/workflow-screenshots/"website id running on servers.png")
+![website running on servers](https://github.com/AhmedZedan/Deploy-a-high-availability-web-app-using-CloudFormation/blob/master/workflow-screenshots/website%20id%20running%20on%20servers.png)
 
 ## The webpage from s3 bucket running on the server
-![The webpage from s3 bucket running on the server](/S3 Bucket - screenshots/The webPage from s3 bucket running on the server.png)
+![The webpage from s3 bucket running on the server](https://github.com/AhmedZedan/Deploy-a-high-availability-web-app-using CloudFormation/blob/master/S3%20Bucket%20-%20screenshots/The%20webPage%20from%20s3%20bucket%20running%20on%20the%20server.png)
