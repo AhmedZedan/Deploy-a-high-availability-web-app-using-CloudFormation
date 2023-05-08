@@ -58,3 +58,8 @@ Last thing: Remember to delete your CloudFormation stack when you're done to avo
 ## Diagram of the Infrastructure
 ![Udagram-infrastructure-diagram](Udagram-infrastructure-diagram.jpeg)
 
+## website running on servers
+![website running on servers](workflow-screenshots/website id running on servers.png)
+
+## The webpage from s3 bucket running on the server
+![The webpage from s3 bucket running on the server](S3 Bucket - screenshots/The webPage from s3 bucket running on the server.png)
